@@ -1,1 +1,1 @@
-# todolist
+Made a website where you can add/remove notes, a to-do-list more exactly, using express, mongoose and ejs. Here I learned how to work with databases (creating schemas, models etc), and how to use templates like EJS.
